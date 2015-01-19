@@ -1,4 +1,4 @@
-version: "0.0.1"
+version: "0.7.0-pre.2"
 remoteDependencies: [
   # For testing
   "https://cdnjs.cloudflare.com/ajax/libs/coffee-script/1.7.1/coffee-script.min.js"

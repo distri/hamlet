@@ -8,6 +8,7 @@ describe "Hamlet", ->
     """,
       compiler: CoffeeScript
       runtime: "Hamlet"
+      exports: false
 
     console.log template
 
